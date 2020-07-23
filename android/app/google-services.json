@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462346446090",
+    "firebase_url": "https://coffe-ea4a2.firebaseio.com",
+    "project_id": "coffe-ea4a2",
+    "storage_bucket": "coffe-ea4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462346446090:android:ed42e24775548adf0706f3",
+        "android_client_info": {
+          "package_name": "com.surafel.Coffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462346446090-i4c9tqn2il0pfojdc7f566cs1rm4f3o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7OgtqpGlEJ3M7lXTGa7WPt0srBRLa7sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462346446090-i4c9tqn2il0pfojdc7f566cs1rm4f3o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
